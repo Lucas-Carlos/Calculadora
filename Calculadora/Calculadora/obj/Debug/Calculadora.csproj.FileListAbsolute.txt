@@ -1,0 +1,40 @@
+C:\Users\Alexandre\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Alexandre\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Alexandre\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Alexandre\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\Alexandre\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Alexandre\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Alexandre\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Alexandre\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Alexandre\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+D:\TÉCNICAS DE PROGRAMAÇÃO\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+D:\TÉCNICAS DE PROGRAMAÇÃO\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\TÉCNICAS DE PROGRAMAÇÃO\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\TÉCNICAS DE PROGRAMAÇÃO\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+D:\TÉCNICAS DE PROGRAMAÇÃO\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+D:\TÉCNICAS DE PROGRAMAÇÃO\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\TÉCNICAS DE PROGRAMAÇÃO\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+D:\TÉCNICAS DE PROGRAMAÇÃO\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+D:\TÉCNICAS DE PROGRAMAÇÃO\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\TÉCNICAS DE PROGRAMAÇÃO\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Alexandre\Documents\Lucas\1º MÓDULO MATÉRIAS ETEC\TÉCNICAS DE PROGRAMAÇÃO\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Alexandre\Documents\Lucas\1º MÓDULO MATÉRIAS ETEC\TÉCNICAS DE PROGRAMAÇÃO\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Alexandre\Documents\Lucas\1º MÓDULO MATÉRIAS ETEC\TÉCNICAS DE PROGRAMAÇÃO\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Alexandre\Documents\Lucas\1º MÓDULO MATÉRIAS ETEC\TÉCNICAS DE PROGRAMAÇÃO\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\Alexandre\Documents\Lucas\1º MÓDULO MATÉRIAS ETEC\TÉCNICAS DE PROGRAMAÇÃO\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Alexandre\Documents\Lucas\1º MÓDULO MATÉRIAS ETEC\TÉCNICAS DE PROGRAMAÇÃO\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Alexandre\Documents\Lucas\1º MÓDULO MATÉRIAS ETEC\TÉCNICAS DE PROGRAMAÇÃO\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Alexandre\Documents\Lucas\1º MÓDULO MATÉRIAS ETEC\TÉCNICAS DE PROGRAMAÇÃO\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\Documents\Lucas\1º MÓDULO MATÉRIAS ETEC\TÉCNICAS DE PROGRAMAÇÃO\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Alexandre\Documents\Lucas\1º MÓDULO MATÉRIAS ETEC\TÉCNICAS DE PROGRAMAÇÃO\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Alexandre\Desktop\calculadora_simples\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Alexandre\Desktop\calculadora_simples\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Alexandre\Desktop\calculadora_simples\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Alexandre\Desktop\calculadora_simples\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\Alexandre\Desktop\calculadora_simples\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Alexandre\Desktop\calculadora_simples\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Alexandre\Desktop\calculadora_simples\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Alexandre\Desktop\calculadora_simples\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\Desktop\calculadora_simples\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Alexandre\Desktop\calculadora_simples\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
